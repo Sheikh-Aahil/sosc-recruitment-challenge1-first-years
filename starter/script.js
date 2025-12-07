@@ -1,5 +1,5 @@
 document.querySelector("#name").addEventListener("click", () => {
-    alert("Hello from Aahil!");
+    alert("Hello from Sheikh Aahil!");
 });
 
 document.getElementById("info-btn").addEventListener("click", () => {
